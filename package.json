@@ -1,0 +1,22 @@
+{
+  "name": "sha256-compression-algorithm",
+  "version": "0.1.0",
+  "description": "A package designed to implement the modified SHA256 compression algorithm",
+  "main": "index.js",
+  "engines": {
+  "node": ">=4.2.4"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewsmorrison/SHA256-Compression-Algorithm.git"
+  },
+  "author": "Matthew Morrison <ewmo11@gmail.com> (http://www.matthewmorrison.tech/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewsmorrison/SHA256-Compression-Algorithm/issues"
+  },
+  "homepage": "https://github.com/matthewsmorrison/SHA256-Compression-Algorithm#readme"
+}
